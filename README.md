@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salesforce Developer | 4x Certified | Apex • LWC • Integration • Automation  
 
-<!--
-**tahirkhan77/tahirkhan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Tahir Khan  
+💡 Passionate about building scalable Salesforce solutions and exploring modern web tech  
 
-Here are some ideas to get you started:
+## 🖥️ Tools
+- [Salesforce Markup Builder](https://chromewebstore.google.com/detail/salesforce-markup-builder/dmikhohlckeamhjfgmkeincjbfgnlleh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack  
+Apex • LWC • Aura • SOQL • Flows • API • React • JavaScript  
+
+## 🌍 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/tahir-khan-438b3221a) | [Trailblazer](https://www.salesforce.com/trailblazer/tkhan34) | [Email](tahir1947khan@gmail.com) 
